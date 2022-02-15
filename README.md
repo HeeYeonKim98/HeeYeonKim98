@@ -1,18 +1,19 @@
-### Hi there 👋
+### Hi, I'm HeeYeon 🐯
 
-<!--
-**HeeYeonKim98/HeeYeonKim98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 
-Here are some ideas to get you started:
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
+![Redux-Saga](https://img.shields.io/badge/Redux%20Saga-999999.svg?&style=for-the-badge&logo=Redux-Saga&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white)
 
-![HeeYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeYeonKim98&show_icons=true&theme=gruvbox_light)
+![HeeYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeYeonKim98&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeYeonKim98&layout=compact)](https://github.com/HeeYeonKim98)
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeeYeonKim98&count_bg=%23FFE251&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
