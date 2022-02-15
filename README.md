@@ -10,8 +10,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white)
 
-![HeeYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeYeonKim98&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeYeonKim98&layout=compact)](https://github.com/HeeYeonKim98)
+![HeeYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeYeonKim98&show_icons=true&title_color=807c6b&border_color=807c6b&text_color=e0cd65&icon_color=807c6b)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeYeonKim98&layout=compact&title_color=807c6b&border_color=807c6b&text_color=e0cd65&icon_color=807c6b)](https://github.com/HeeYeonKim98)
 
 
 
