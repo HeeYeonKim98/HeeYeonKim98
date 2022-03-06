@@ -17,7 +17,7 @@
 
   </br>
 
-  ![HeeYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeYeonKim98&show_icons=true&title_color=453e22&border_color=e8e8e8&text_color=524f45&icon_color=ffe04d&?count_private=true)
+  ![HeeYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeYeonKim98&show_icons=true&title_color=54493c&border_color=ebebeb&text_color=54493c&icon_color=f5dc64&?count_private=true)
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeeYeonKim98%2Fhit-counter&count_bg=%23F7DE51&title_bg=%23AAA589&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
